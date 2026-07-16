@@ -1,0 +1,13 @@
+{
+  "name": "WonderPath",
+  "short_name": "WonderPath",
+  "description": "What's next for your child's talking and listening.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FBF6EC",
+  "theme_color": "#22314F",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
